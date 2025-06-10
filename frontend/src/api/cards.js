@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE_URL = '/api/v1';
+// 讀取環境變數，支援多環境部署
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || '/api/v1';
 
 // 創建axios實例
 const api = axios.create({
