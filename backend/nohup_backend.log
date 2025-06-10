@@ -1,0 +1,11 @@
+INFO:     Will watch for changes in these directories: ['/data1/165/ocr_app_v2']
+INFO:     Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+INFO:     Started reloader process [370121] using WatchFiles
+INFO:     Started server process [370136]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+🚀 名片OCR後端啟動完成！
+INFO:     192.168.50.120:0 - "GET /manifest.json HTTP/1.1" 404 Not Found
+INFO:     192.168.50.120:0 - "GET /manifest.json HTTP/1.1" 404 Not Found
+INFO:     192.168.50.120:0 - "GET /manifest.json HTTP/1.1" 404 Not Found
+INFO:     192.168.50.120:0 - "GET /manifest.json HTTP/1.1" 404 Not Found
